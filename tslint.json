@@ -1,0 +1,11 @@
+{
+  "extends": "@oclif/tslint",
+  "rules": {
+    "semicolon": [
+      true,
+      "always"
+    ],
+    "indent": [true, "spaces", 2],
+    "ter-indent": [true, 2]
+  }
+}
